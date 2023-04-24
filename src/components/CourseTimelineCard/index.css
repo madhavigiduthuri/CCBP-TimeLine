@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.projecttimeLinecard-wrap {
+  align-items: center;
+  font-family: 'Roboto';
+  width: 100%;
+}
+
+.top-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  font-size: 26px;
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+}
+
+.project-img {
+  width: 100%;
+}
+
+.boxes {
+  margin-left: 0px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.box {
+  background-color: #2b237c15;
+  padding: 5px 20px;
+  margin-left: 0px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
